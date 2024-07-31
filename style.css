@@ -1,0 +1,36 @@
+header{
+    height: 400px;
+    background-color: rgb(197, 89, 11);
+    text-align: center;
+    color: aliceblue;
+    padding: 50px;
+    font-size: 50px;
+    background-image: url(https://news.store.rambler.ru/img/2ddd7cb10e7a7c9f2cf10b8682065202?img-format=auto&img-1-resize=height:400,fit:max&img-2-filter=sharpen);
+    background-size: cover;
+}
+body{
+    margin: 0px;
+}
+
+main{
+    color: rgb(255, 191, 0);
+}
+
+footer{
+    background-color: rgb(170, 114, 73);
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.social img {
+    width: 100px;
+    padding-left: 10px;
+}
+
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
